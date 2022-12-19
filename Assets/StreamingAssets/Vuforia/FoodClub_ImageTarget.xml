@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="dountimg2" size="1.000000 1.414427" />
+    <ImageTarget name="dountimg" size="1.000000 1.400226" />
+    <ImageTarget name="eaters-collective-12eHC6FxPyg-unsplash" size="1.000000 0.667247" />
+    <ImageTarget name="pizza" size="1.000000 1.000000" />
+    <ImageTarget name="dount_image" size="5.000000 8.884259" />
+    <ImageTarget name="burger_Menu" size="5.000000 6.231617" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BACK_Logo_App" size="1.000000 0.600000" />
+    <ImageTarget name="rockk" size="1.000000 0.665049" />
+    <ImageTarget name="logo_unity_AR" size="1.000000 0.647410" />
+    <ImageTarget name="foodclub" size="10.000000 6.474103" />
+  </Tracking>
+</QCARConfig>

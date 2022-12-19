@@ -1,0 +1,16 @@
+/Assets/Editor/Vuforia/ImageTargetTextures/FoodClub_ImageTarget/pizza_scaled.jpg filter=lfs diff=lfs merge=lfs -text
+/Assets/Images/app_logo.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Images/donut.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Images/kindpng_7297406.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Models/dount.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/StreamingAssets/Vuforia/AR.dat filter=lfs diff=lfs merge=lfs -text
+/Assets/StreamingAssets/Vuforia/AR_Card.dat filter=lfs diff=lfs merge=lfs -text
+/Assets/StreamingAssets/Vuforia/FoodClub_ImageTarget.dat filter=lfs diff=lfs merge=lfs -text
+/Assets/TextMesh[[:space:]]Pro/Documentation/TextMesh[[:space:]]Pro[[:space:]]User[[:space:]]Guide[[:space:]]2016.pdf filter=lfs diff=lfs merge=lfs -text
+/Assets/TextMesh[[:space:]]Pro/Fonts/LiberationSans.ttf filter=lfs diff=lfs merge=lfs -text
+/Assets/TextMesh[[:space:]]Pro/Resources/Fonts[[:space:]]&[[:space:]]Materials/LiberationSans[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/TextMesh[[:space:]]Pro/Sprites/EmojiOne.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Video/Demo_AR_food.mp4 filter=lfs diff=lfs merge=lfs -text
+/Assets/Video/Intro.mp4 filter=lfs diff=lfs merge=lfs -text
+/Assets/Video/IntroForGamers.mp4 filter=lfs diff=lfs merge=lfs -text
+/Packages/com.ptc.vuforia.engine-10.3.2.tgz filter=lfs diff=lfs merge=lfs -text
